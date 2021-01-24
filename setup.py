@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Tutor Exilius",
+    name="abstractmetaclass",
     version="0.0.1",
     author="Tutor Exilius",
     author_email="tutorexilius@gmail.com",
