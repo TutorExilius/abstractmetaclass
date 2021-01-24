@@ -1,0 +1,6 @@
+venv/
+.idea/
+*.py
+!abstractmetaclass/*
+!setup.py
+__pycache__
