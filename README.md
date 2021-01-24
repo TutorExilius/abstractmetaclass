@@ -1,4 +1,4 @@
-A small metaclass, which enforce subclasses to implement methods with same signature from derived abstract class(es).
+A small python metaclass, which enforce subclasses to implement methods with same signature from derived abstract class(es).
 
 All parent classes, which shall be used like an abstract class has to use the metaclass:
 
