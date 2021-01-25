@@ -1,4 +1,8 @@
-A small python metaclass, that enforces subclasses to implement methods with same signature derived from the abstract class(es).
+<<<<<<< HEAD
+Solution based on https://stackoverflow.com/questions/55309793/python-enforce-specific-method-signature-for-subclasses
+
+
+A small python metaclass, which enforce subclasses to implement methods with same signature from derived abstract class(es).
 
 All parent classes, which shall be used like an abstract class has to use the metaclass:
 
